@@ -1,0 +1,405 @@
+fileFormatVersion: 2
+guid: 8599de4107db6454b8d25f441b6ecde6
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Back Grip
+    100002: Barrel
+    100004: Butt Stock.001
+    100006: Ckoing Handle
+    100008: Cube
+    100010: Cylinder
+    100012: //RootNode
+    100014: Foregrip
+    100016: Inner Pole
+    100018: IronSight Holder
+    100020: Left Safety Switch
+    100022: Lower Reciever
+    100024: Magazine
+    100026: Outer Pole (Top)
+    100028: Rails Top Notch.002
+    100030: Rear Sights Screw Face
+    100032: Rear Sights Screw.009
+    100034: Right Safety Switch
+    100036: Screw Foregrip
+    100038: Top Rails
+    100040: Top Rails.001
+    100042: Top Stock
+    100044: Trigger
+    100046: Trigger Guard
+    100048: Upper Reciver
+    400000: Back Grip
+    400002: Barrel
+    400004: Butt Stock.001
+    400006: Ckoing Handle
+    400008: Cube
+    400010: Cylinder
+    400012: //RootNode
+    400014: Foregrip
+    400016: Inner Pole
+    400018: IronSight Holder
+    400020: Left Safety Switch
+    400022: Lower Reciever
+    400024: Magazine
+    400026: Outer Pole (Top)
+    400028: Rails Top Notch.002
+    400030: Rear Sights Screw Face
+    400032: Rear Sights Screw.009
+    400034: Right Safety Switch
+    400036: Screw Foregrip
+    400038: Top Rails
+    400040: Top Rails.001
+    400042: Top Stock
+    400044: Trigger
+    400046: Trigger Guard
+    400048: Upper Reciver
+    2100000: Lower Reciver
+    2100002: Grip
+    2100004: Rubber Part
+    2100006: Trigger Guard
+    2100008: Trigger
+    2100010: Magazine
+    2100012: Upper Reciever
+    2100014: Exhaust Holes
+    2100016: Cocking Slider
+    2100018: Ejector
+    2100020: Top Stock
+    2100022: Gas Plate
+    2100024: Stock Connector
+    2100026: Bottom Stock
+    2100028: Butt Stock
+    2100030: Barrel
+    2100032: Barrel Ring
+    2100034: SIghts Holder
+    2100036: Front Sights
+    2100038: Rails Slider
+    2100040: Rails
+    2100042: Screws
+    2100044: Back Sight Handle
+    2100046: Back Sight Handle.001
+    2100048: Back Sights Screw
+    2100050: Back Sights
+    2100052: Back Sight
+    2100054: Foregrip
+    2100056: No Name
+    2100058: Side Screws
+    2100060: Side Deco
+    2100062: Cocking Handle
+    2300000: Back Grip
+    2300002: Barrel
+    2300004: Butt Stock.001
+    2300006: Ckoing Handle
+    2300008: Cube
+    2300010: Cylinder
+    2300012: Foregrip
+    2300014: Inner Pole
+    2300016: IronSight Holder
+    2300018: Left Safety Switch
+    2300020: Lower Reciever
+    2300022: Magazine
+    2300024: Outer Pole (Top)
+    2300026: Rails Top Notch.002
+    2300028: Rear Sights Screw Face
+    2300030: Rear Sights Screw.009
+    2300032: Right Safety Switch
+    2300034: Screw Foregrip
+    2300036: Top Rails
+    2300038: Top Rails.001
+    2300040: Top Stock
+    2300042: Trigger
+    2300044: Trigger Guard
+    2300046: Upper Reciver
+    3300000: Back Grip
+    3300002: Barrel
+    3300004: Butt Stock.001
+    3300006: Ckoing Handle
+    3300008: Cube
+    3300010: Cylinder
+    3300012: Foregrip
+    3300014: Inner Pole
+    3300016: IronSight Holder
+    3300018: Left Safety Switch
+    3300020: Lower Reciever
+    3300022: Magazine
+    3300024: Outer Pole (Top)
+    3300026: Rails Top Notch.002
+    3300028: Rear Sights Screw Face
+    3300030: Rear Sights Screw.009
+    3300032: Right Safety Switch
+    3300034: Screw Foregrip
+    3300036: Top Rails
+    3300038: Top Rails.001
+    3300040: Top Stock
+    3300042: Trigger
+    3300044: Trigger Guard
+    3300046: Upper Reciver
+    4300000: Lower Reciever
+    4300002: Back Grip
+    4300004: Trigger Guard
+    4300006: Trigger
+    4300008: Magazine
+    4300010: Upper Reciver
+    4300012: Top Stock
+    4300014: Inner Pole
+    4300016: Outer Pole (Top)
+    4300018: Butt Stock.001
+    4300020: Barrel
+    4300022: Cylinder
+    4300024: Cube
+    4300026: IronSight Holder
+    4300028: Top Rails
+    4300030: Rails Top Notch.002
+    4300032: Rear Sights Screw Face
+    4300034: Top Rails.001
+    4300036: Foregrip
+    4300038: Screw Foregrip
+    4300040: Left Safety Switch
+    4300042: Right Safety Switch
+    4300044: Rear Sights Screw.009
+    4300046: Ckoing Handle
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Back Sight
+    second: {fileID: 2100000, guid: 6609883269738004d807ba40cc5827d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Back Sight Handle
+    second: {fileID: 2100000, guid: 6ebf265cc133e4a4a94fca25d989766c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Back Sight Handle.001
+    second: {fileID: 2100000, guid: 6ebf265cc133e4a4a94fca25d989766c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Back Sights
+    second: {fileID: 2100000, guid: f052238d695adca479d1b67dea3ac3a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Back Sights Screw
+    second: {fileID: 2100000, guid: f052238d695adca479d1b67dea3ac3a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Barrel
+    second: {fileID: 2100000, guid: 427c22585648bd144a46e7b0900323bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Barrel Ring
+    second: {fileID: 2100000, guid: 9e03ad2b8af90d149a4ee0968b32dc6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bottom Stock
+    second: {fileID: 2100000, guid: 8ba390657b2915c439e4f4e255419eee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Butt Stock
+    second: {fileID: 2100000, guid: ee1caa70d7d2ce84183c8d87ca0835dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cocking Handle
+    second: {fileID: 2100000, guid: a64d76dd7f2a79b4096d9edbede88c65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cocking Slider
+    second: {fileID: 2100000, guid: a64d76dd7f2a79b4096d9edbede88c65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ejector
+    second: {fileID: 2100000, guid: b63b36fee599f4141b2151dbf076c408, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Exhaust Holes
+    second: {fileID: 2100000, guid: 7ca891c47d5d97e438d222ddfac72a76, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Foregrip
+    second: {fileID: 2100000, guid: 4223a2ac561f5494b947d9598303dbc3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Front Sights
+    second: {fileID: 2100000, guid: 6609883269738004d807ba40cc5827d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gas Plate
+    second: {fileID: 2100000, guid: 21d8e2a6b7d91e044a801066ec4009f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grip
+    second: {fileID: 2100000, guid: d2ce6b21928857d419051703a99300b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lower Reciver
+    second: {fileID: 2100000, guid: 550252a1775e60a489c09fe108175139, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Magazine
+    second: {fileID: 2100000, guid: 308a8171c948b0246bc7de829e041cf6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 308a8171c948b0246bc7de829e041cf6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rails
+    second: {fileID: 2100000, guid: dcc14656fec884f4a8305f4d7f306725, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rails Slider
+    second: {fileID: 2100000, guid: d2ce6b21928857d419051703a99300b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rubber Part
+    second: {fileID: 2100000, guid: c0933a4cc8d8e2a458317445e9f97a5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SIghts Holder
+    second: {fileID: 2100000, guid: 6609883269738004d807ba40cc5827d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Screws
+    second: {fileID: 2100000, guid: 7bcf8eb94a2d09644a1813ca6a1106b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Side Deco
+    second: {fileID: 2100000, guid: 7bcf8eb94a2d09644a1813ca6a1106b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Side Screws
+    second: {fileID: 2100000, guid: 7bcf8eb94a2d09644a1813ca6a1106b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stock Connector
+    second: {fileID: 2100000, guid: d2ce6b21928857d419051703a99300b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Top Stock
+    second: {fileID: 2100000, guid: d2ce6b21928857d419051703a99300b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trigger
+    second: {fileID: 2100000, guid: d2ce6b21928857d419051703a99300b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trigger Guard
+    second: {fileID: 2100000, guid: d2ce6b21928857d419051703a99300b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Upper Reciever
+    second: {fileID: 2100000, guid: d2ce6b21928857d419051703a99300b3, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

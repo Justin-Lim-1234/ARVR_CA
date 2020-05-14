@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - WaypointsLevel1
+  - WaypointsLevel2
+  - WaypointsLevel3
+  - Robot
   layers:
   - Default
   - TransparentFX

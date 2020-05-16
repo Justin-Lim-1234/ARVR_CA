@@ -10,6 +10,7 @@ public class Waypoints : MonoBehaviour
     private GameObject currentWaypointTarget;
     private int index;
     public float speed = 5;
+    public RobotScript robot;
     // Start is called before the first frame update
     void Start()
     {
@@ -24,20 +25,23 @@ public class Waypoints : MonoBehaviour
     {
 
 
-        if (Vector3.Distance(transform.position, LevelWaypoints[index].transform.position) < rangeWaypoints)
+        if (!robot.dead)
         {
-            index++;
-            if (index >= LevelWaypoints.Length)
+            if (Vector3.Distance(transform.position, LevelWaypoints[index].transform.position) < rangeWaypoints)
             {
-                index = 0;
-            }
+                index++;
+                if (index >= LevelWaypoints.Length)
+                {
+                    index = 0;
+                }
 
-        }
-        else
-        {
-            // Move our position a step closer to the target.
-            float step = speed * Time.deltaTime; // calculate distance to move
-            transform.position = Vector3.MoveTowards(transform.position, LevelWaypoints[index].transform.position, step);
+            }
+            else
+            {
+                // Move our position a step closer to the target.
+                float step = speed * Time.deltaTime; // calculate distance to move
+                transform.position = Vector3.MoveTowards(transform.position, LevelWaypoints[index].transform.position, step);
+            }
         }
         
       

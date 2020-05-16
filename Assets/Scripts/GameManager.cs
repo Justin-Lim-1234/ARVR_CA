@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class GameManager : MonoBehaviour
 {
-    
     public GameObject RobotPrefab;
     public GameObject SpawnPoint1;
     public GameObject SpawnPoint2;
@@ -14,15 +13,14 @@ public class GameManager : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-     SpawnRobotLvl3();
+        SpawnRobotLvl3();
     }
 
     // Update is called once per frame
     void Update()
     {
-        
-    }
 
+    }
 
     public void SpawnRobotLvl1()
     {
